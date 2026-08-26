@@ -3,6 +3,7 @@
 Thumbs.db
 *.swp
 *.swo
+.~lock.*#
 
 # Local logs and temporary files
 *.log
