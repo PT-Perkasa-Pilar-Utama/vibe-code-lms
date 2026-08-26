@@ -1,0 +1,12 @@
+# OS / editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Local logs and temporary files
+*.log
+*.tmp
+
+# Generated exports
+/exports/
