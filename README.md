@@ -13,6 +13,8 @@ Deck ini dibuat dalam format 16:9 dengan viewer bergaya PowerPoint, mode present
 ```text
 .
 ├── index.html
+├── vibe-coding-lms-presentation.pdf
+├── vibe-coding-lms-presentation.pptx
 ├── PRD.md
 ├── AGENT_BOOTSTRAP.md
 ├── ENGINEERING_GUARD.md
@@ -35,6 +37,13 @@ Presentasi membahas cara mengubah ide LMS menjadi MVP yang usable melalui vibe c
 - prinsip visual dan sistem layout yang konsisten,
 - guardrail engineering sebelum masuk fase production,
 - validasi behavior melalui browser dan export artifact.
+
+## Hasil render
+
+Artifact siap pakai tersedia langsung di repository:
+
+- [PDF presentation](./vibe-coding-lms-presentation.pdf) — 28 halaman, format 16:9.
+- [PPTX presentation](./vibe-coding-lms-presentation.pptx) — deck PowerPoint dengan media cover.
 
 ## File utama
 
